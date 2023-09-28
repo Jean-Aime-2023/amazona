@@ -7,3 +7,4 @@
 3. Create navbar and styling it
 4. List products
 5. Add routing
+6. Create Node.JS Server
