@@ -14,3 +14,4 @@
 10. Create Product and rating component
 11. Create proudct details screen
 12. Create loading and message component
+13. Implement Add To Cart
